@@ -1,7 +1,7 @@
 ---
-title: Landing
+title: Projects
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'Projects'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
@@ -75,9 +75,9 @@ nav-menu: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>To Be Decided</h2>
+			<h2>About</h2>
 		</header>
-		<p>To Be Decided</p>
+		<p>About Shreyash Desai</p>
 		<ul class="actions">
 			<li><a href="generic.html" class="button next">Get Started</a></li>
 		</ul>
