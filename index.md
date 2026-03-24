@@ -1,11 +1,16 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
-description: null
+landing-title: 'Hi, my name is Shreyash Desai'
+description: "Full Stack Developer"
 image: null
 author: null
 show_tile: false
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+I am a technical professional specializing in building scalable web applications and 
+optimizing deployment pipelines. With a background in Electronics and Telecommunication 
+and advanced computing, I bridge the gap between robust backend logic (Java, Spring Boot) 
+and modern DevOps practices (Docker, AWS, CI/CD). 
+
+Check out my projects below to see how I solve real-world problems with code.
