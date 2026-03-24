@@ -32,7 +32,7 @@ nav-menu: true
 				</header>
 				<p>
 					React.js, Java Spring Boot (Java 17), ASP .NET, Node.js, MySQL, Microsoft SQL Server Management Studio<br/>
-					Built a SaaS-based web platform for managing product listings, subscriptions, and customer transactions with end-to-end billing lifecycle support.<br/>
+					Built a SaaS-based web platform for managing product listings, subscriptions, and customer transactions with end-to-end billing lifecycle support.
 					<ul>
 						<li>Developed a scalable SaaS-based subscription and recurring billing platform using Java Spring Boot with 35+ RESTful APIs, supporting 100+
 						concurrent users and complete subscription lifecycle management.</li>
@@ -43,7 +43,7 @@ nav-menu: true
 					</ul>
 				</p>	
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="https://github.com/ShreyashDesai09/Revenue-And-Subscription-Management-" class="button">GitHub</a></li>
 				</ul>
 			</div>
 		</div>
@@ -55,11 +55,22 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>To Be Decided</h3>
+					<h3>Direct Air Capture using Carbon Capture And Storage Technology</h3>
 				</header>
-				<p>To Be Decided</p>
+				<p>
+					Arduino Mega, Hardware Design, Hardware Implementation <br/>
+					Filtering CO₂ from Open Air and storing it in a Compressed form for further Industrial Use.
+					<ul>
+					<li>Designed and implemented a small-scale Carbon Capture & Storage prototype using Arduino-based control, demonstrating CO₂ capture from
+					air and storing it in compressed form.</li>
+					<li>Developed Arduino code to control actuators, read sensor inputs, and execute timing-based capture cycles, achieving a semi-automated
+					operation with 20% efficiency improvement.</li>
+					<li>Achieved smooth and stable system operation through iterative tuning of control logic and hardware coordination, reducing system runtime by
+					30%.</li>
+					</ul>
+				</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="https://github.com/ShreyashDesai09/direct_air_capture" class="button">GitHub</a></li>
 				</ul>
 			</div>
 		</div>
