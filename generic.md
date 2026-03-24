@@ -36,15 +36,35 @@ nav-menu: true
             </header>
             <div class="row">
                 <div class="4u 12u$(medium)">
-                    <h3>To Be Decided</h3>
+                    <h2>Programming Languages</h2>
                     <p>To Be Decided</p>
                 </div>
                 <div class="4u 12u$(medium)">
-                    <h3>To Be Decided</h3>
+                    <h2>Scripting</h2>
                     <p>To Be Decided</p>
                 </div>
                 <div class="4u$ 12u$(medium)">
-                    <h3>To Be Decided</h3>
+                    <h2>Cloud Platform</h2>
+                    <p>To Be Decided</p>
+                </div>
+                <div class="4u$ 12u$(medium)">
+                    <h2>Operating System</h2>
+                    <p>To Be Decided</p>
+                </div>
+                <div class="4u$ 12u$(medium)">
+                    <h2>CI/CD & Version Control</h2>
+                    <p>To Be Decided</p>
+                </div>
+                <div class="4u$ 12u$(medium)">
+                    <h2>BackEnd</h2>
+                    <p>To Be Decided</p>
+                </div>
+                <div class="4u$ 12u$(medium)">
+                    <h2>FrontEnd</h2>
+                    <p>To Be Decided</p>
+                </div>
+                <div class="4u$ 12u$(medium)">
+                    <h2>Database</h2>
                     <p>To Be Decided</p>
                 </div>
             </div>
