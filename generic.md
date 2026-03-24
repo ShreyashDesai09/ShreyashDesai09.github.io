@@ -2,7 +2,7 @@
 layout: post
 title: About
 description: About Shreyash
-image: assets/images/pic11.jpg
+image: 
 nav-menu: true
 ---
 <section>
