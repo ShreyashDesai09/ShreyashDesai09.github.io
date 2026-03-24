@@ -23,7 +23,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="https://github.com/ShreyashDesai09/Revenue-And-Subscription-Management-" class="image">
-			<img src="{% link assets/images/bizvenue-logo.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/bizvenue-logo.png %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
