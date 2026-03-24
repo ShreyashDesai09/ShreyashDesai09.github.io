@@ -12,31 +12,6 @@ nav-menu: true
             <header class="major">
                 <h3>Summary</h3>
             </header>
-            <h2 id="content">To Be Decided</h2>
-            <p>To Be Decided</p>
-            <div class="row">
-                <div class="6u 12u$(small)">
-                    <h3>To Be Decided</h3>
-                    <p>To Be Decided</p>
-                </div>
-                <div class="6u$ 12u$(small)">
-                    <h3>To Be Decided</h3>
-                    <p>To Be Decided</p>
-                </div>
-                <!-- Break -->
-                <div class="4u 12u$(medium)">
-                    <h3>To Be Decided</h3>
-                    <p>To Be Decided</p>
-                </div>
-                <div class="4u 12u$(medium)">
-                    <h3>To Be Decided</h3>
-                    <p>To Be Decided</p>
-                </div>
-                <div class="4u$ 12u$(medium)">
-                    <h3>To Be Decided</h3>
-                    <p>To Be Decided</p>
-                </div>
-            </div>
         </div>
     </div>
 </section>
@@ -71,15 +46,6 @@ nav-menu: true
 <h2 id="content">To Be Decided</h2>
 <p>To Be Decided</p>
 <div class="row">
-	<div class="6u 12u$(small)">
-		<h3>To Be Decided</h3>
-		<p>To Be Decided</p>
-	</div>
-	<div class="6u$ 12u$(small)">
-		<h3>To Be Decided</h3>
-		<p>To Be Decided</p>
-	</div>
-	<!-- Break -->
 	<div class="4u 12u$(medium)">
 		<h3>To Be Decided</h3>
 		<p>To Be Decided</p>
