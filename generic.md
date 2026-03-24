@@ -35,4 +35,42 @@ nav-menu: true
         </div>
     </div>
 </section>
+
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h1>Elements</h1>
+		</header>
+
+<!-- Content -->
+<h2 id="content">To Be Decided</h2>
+<p>To Be Decided</p>
+<div class="row">
+	<div class="6u 12u$(small)">
+		<h3>To Be Decided</h3>
+		<p>To Be Decided</p>
+	</div>
+	<div class="6u$ 12u$(small)">
+		<h3>To Be Decided</h3>
+		<p>To Be Decided</p>
+	</div>
+	<!-- Break -->
+	<div class="4u 12u$(medium)">
+		<h3>To Be Decided</h3>
+		<p>To Be Decided</p>
+	</div>
+	<div class="4u 12u$(medium)">
+		<h3>To Be Decided</h3>
+		<p>To Be Decided</p>
+	</div>
+	<div class="4u$ 12u$(medium)">
+		<h3>To Be Decided</h3>
+		<p>To Be Decided</p>
+	</div>
+</div>
+
+<hr class="major" />
+
+</section>
+
 <!-- Add Information About Self -->
