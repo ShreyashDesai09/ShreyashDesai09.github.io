@@ -53,6 +53,7 @@ nav-menu: true
 						<li><a href="https://github.com/ShreyashDesai09/Revenue-And-Subscription-Management-" class="button">Project Demo</a></li>
 					</ul> -->
 				<!-- </span> -->
+				</div>
 		</div>
 	</section>
 	<section>
