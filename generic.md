@@ -14,6 +14,7 @@ nav-menu: true
             </header>
         </div>
     </div>
+    <hr class="major" />
 </section>
 
 <section>
@@ -24,6 +25,7 @@ nav-menu: true
             </header>
         </div>
     </div>
+    <hr class="major" />
 </section>
 
 <section>
@@ -48,4 +50,7 @@ nav-menu: true
             </div>
         </div>
     </div>
+    <hr class="major" />
 </section>
+
+
