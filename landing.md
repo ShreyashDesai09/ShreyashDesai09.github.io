@@ -34,11 +34,11 @@ nav-menu: true
 					Built a SaaS-based web platform for managing product listings, subscriptions, and customer transactions with end-to-end billing lifecycle support.<br/>
 					<ul>
 						<li>Developed a scalable SaaS-based subscription and recurring billing platform using Java Spring Boot with 35+ RESTful APIs, supporting 100+
-						concurrent users and complete subscription lifecycle management.</li><br/>
+						concurrent users and complete subscription lifecycle management.</li>
 						<li>Implemented JWT-based authentication and role-based authorization using Spring Security for secure multi-user access across Admin and
-						Client roles.</li> <br/>
+						Client roles.</li> 
 						<li>Containerized frontend, backend, and logging services using Docker and Docker Compose, and deployed on AWS EC2 to ensure scalable,
-						reliable, and efficient application deployment.<br/></li></p>
+						reliable, and efficient application deployment.</li></p>
 					</ul>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
