@@ -13,9 +13,16 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>To Be Decided</h2>
+			<h2>Revenue And Subscription Management</h2>
 		</header>
-		<p>To Be Decided</p>
+		<p>React.js, Java Spring Boot (Java 17), ASP .NET, Node.js, MySQL, Microsoft SQL Server Management Studio
+Built a SaaS-based web platform for managing product listings, subscriptions, and customer transactions with end-to-end billing lifecycle support.
+●​ Developed a scalable SaaS-based subscription and recurring billing platform using Java Spring Boot with 35+ RESTful APIs, supporting 100+
+concurrent users and complete subscription lifecycle management.
+●​ Implemented JWT-based authentication and role-based authorization using Spring Security for secure multi-user access across Admin and
+Client roles.
+●​ Containerized frontend, backend, and logging services using Docker and Docker Compose, and deployed on AWS EC2 to ensure scalable,
+reliable, and efficient application deployment.</p>
 	</div>
 </section>
 
