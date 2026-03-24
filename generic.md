@@ -38,39 +38,39 @@ nav-menu: true
             </header>
             <div class="row 50% uniform">
                 <div class="4u 12u$(medium)">
-                    <h2>Programming Languages</h2>
+                    <h4>Programming Languages</h4>
                     <p><i class="fas fa-code"></i> C++<br><i class="fas fa-code"></i> C#<br><i class="fab fa-java"></i> Java (Core, Java 8)<br><i class="fab fa-js"></i> JavaScript</p>
                 </div>
                 <div class="4u 12u$(medium)">
-                    <h2>Scripting</h2>
+                    <h4>Scripting</h4>
                     <p><i class="fas fa-terminal"></i> Bash</p>
                 </div>
                 <div class="4u$ 12u$(medium)">
-                    <h2>Cloud Platform</h2>
+                    <h4>Cloud Platform</h4>
                     <p><i class="fab fa-aws"></i> Amazon Web Services (AWS)</p>
                 </div>
                 <div class="4u$ 12u$(medium)">
-                    <h2>Operating System</h2>
+                    <h4>Operating System</h4>
                     <p><i class="fab fa-linux"></i> Linux</p>
                 </div>
                 <div class="4u$ 12u$(medium)">
-                    <h2>DevOps & Containerization</h2>
+                    <h4>DevOps & Containerization</h4>
                     <p><i class="fab fa-docker"></i> Docker<br><i class="fas fa-dharmachakra"></i> Kubernetes</p>
                 </div>
                 <div class="4u$ 12u$(medium)">
-                    <h2>CI/CD & Version Control</h2>
+                    <h4>CI/CD & Version Control</h4>
                     <p><i class="fab fa-git-alt"></i> Git<br><i class="fab fa-github"></i> GitHub<br><i class="fas fa-cogs"></i> Jenkins</p>
                 </div>
                 <div class="4u$ 12u$(medium)">
-                    <h2>Backend</h2>
+                    <h4>Backend</h4>
                     <p><i class="fas fa-leaf"></i> Spring Boot (Java 17/21)<br><i class="fab fa-node-js"></i> Node.js (Express)<br><i class="devicon-dotnetcore-plain"></i> ASP.NET</p>
                 </div>
                 <div class="4u$ 12u$(medium)">
-                    <h2>Frontend</h2>
+                    <h4>Frontend</h4>
                     <p><i class="fab fa-react"></i> React.js<br><i class="fab fa-html5"></i> HTML5<br><i class="fab fa-css3-alt"></i> CSS3</p>
                 </div>
                 <div class="4u$ 12u$(medium)">
-                    <h2>Databases</h2>
+                    <h4>Databases</h4>
                     <p><i class="devicon-mysql-plain"></i> MySQL<br><i class="devicon-microsoftsqlserver-plain"></i> Microsoft SQL Server (SSMS)</p>
                 </div>
             </div>
