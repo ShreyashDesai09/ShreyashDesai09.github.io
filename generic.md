@@ -28,7 +28,7 @@ nav-menu: true
     <hr class="major" />
 </section>
 
-<!-- <section> -->
+<section>
     <div class="content">
         <div class="inner">
             <header class="major">
