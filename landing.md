@@ -58,7 +58,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="https://github.com/ShreyashDesai09/direct_air_capture" class="image">
-			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/Carbon-Capture-And-Storage.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
