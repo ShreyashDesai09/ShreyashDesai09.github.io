@@ -42,18 +42,17 @@ nav-menu: true
 						reliable, and efficient application deployment.</li>
 					</ul>
 				</p>	
-				<span>	
+				<!-- <span>	 -->
 					<ul class="actions">
 						<li><a href="https://github.com/ShreyashDesai09/Revenue-And-Subscription-Management-" class="button">GitHub</a></li>
 					</ul>
-					<ul class="actions">
+					<!-- <ul class="actions">
 						<li><a href="https://github.com/ShreyashDesai09/Revenue-And-Subscription-Management-" class="button">Live Project</a></li>
 					</ul>
 					<ul class="actions">
 						<li><a href="https://github.com/ShreyashDesai09/Revenue-And-Subscription-Management-" class="button">Project Demo</a></li>
-					</ul>
-				</span>
-			</div>
+					</ul> -->
+				<!-- </span> -->
 		</div>
 	</section>
 	<section>
