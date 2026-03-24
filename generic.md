@@ -49,11 +49,3 @@ nav-menu: true
         </div>
     </div>
 </section>
-
-<section id="one">
-
-<hr class="major" />
-
-</section>
-
-<!-- Add Information About Self -->
