@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: "Shreyash | Portfolio"
 landing-title: 'Hi, my name is Shreyash Desai'
 description: "Full Stack Developer"
 image: null
