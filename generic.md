@@ -5,6 +5,7 @@ description: About Shreyash
 image: 
 nav-menu: true
 ---
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
 <section>
     <div class="content">
