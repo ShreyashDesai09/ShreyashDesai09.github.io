@@ -291,7 +291,7 @@
 			.\-7u#{$x} { margin-left: 58.3333333333% }
 			.\-6u#{$x} { margin-left: 50% }
 			.\-5u#{$x} { margin-left: 41.6666666667% }
-			.\-4u#{$x} { margin-left: 33.3333333333% }
+			.\-4u#{$x} { margin-left: auto }
 			.\-3u#{$x} { margin-left: 25% }
 			.\-2u#{$x} { margin-left: 16.6666666667% }
 			.\-1u#{$x} { margin-left: 8.3333333333% }
@@ -453,18 +453,18 @@
 					}
 
 				// Rows.
-					.row {
-						border-bottom: solid 1px transparent;
-						-moz-box-sizing: border-box;
-						-webkit-box-sizing: border-box;
-						box-sizing: border-box;
+					.row{
+						display:flex !important;
+						flex-wrap:wrap;
+						gap:25px;
+						margin:0 !important;
 					}
 
-					.row > * {
-						float: left;
-						-moz-box-sizing: border-box;
-						-webkit-box-sizing: border-box;
-						box-sizing: border-box;
+					.row > *{
+						float:none !important;
+						flex:1 1 300px;
+						min-width:250px;
+						padding:0 !important;
 					}
 
 					.row:after, .row:before {

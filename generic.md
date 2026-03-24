@@ -36,7 +36,7 @@ nav-menu: true
             <header class="major">
                 <h3>Skills</h3>
             </header>
-            <div class="row 50% uniform">
+            <div class="row">
                 <div class="4u 12u$(medium)">
                     <h4>Programming Languages</h4>
                     <p><i class="fas fa-code"></i> C++<br><i class="fas fa-code"></i> C#<br><i class="fab fa-java"></i> Java (Core, Java 8)<br><i class="fab fa-js"></i> JavaScript</p>
