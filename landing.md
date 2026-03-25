@@ -83,6 +83,7 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
+</section>
 
 <!-- Three -->
 <section id="three">
@@ -96,5 +97,4 @@ nav-menu: true
 		</ul>
 	</div>
 </section>
-
 </div>
