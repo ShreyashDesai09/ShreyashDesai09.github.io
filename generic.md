@@ -23,11 +23,7 @@ nav-menu: true
         <div class="inner">
             <header class="major">
                 <h3>Education</h3>
-            </header>
-            <div>
-                <h4>Post Graduaction Diploma in Advanced Computing</h4>
-                    <p>Sunbeam Infotech Private Limited</p>
-            </div>            
+            </header>          
             <div>
                 <h4>Bachelors of Technologt</h4>
                     <p>KIT's College of Enginerring</p>
@@ -45,6 +41,20 @@ nav-menu: true
                             <h4>Post Graduaction Diploma in Advanced Computing</h4>
                         </header>
                         <p>Sunbeam Infotech Private Limited</p>	
+                    </div>
+                </div>
+            <hr class="major" />
+    	</section>
+        <section>
+            <a href="https://github.com/ShreyashDesai09/Revenue-And-Subscription-Management-" class="image">
+                <img src="{% link assets/images/KIT.png %}" alt="" data-position="center center" />
+            </a>
+            <div class="content">
+                    <div class="inner">
+                        <header class="major">
+                            <h4>Bachelors of Technology</h4>
+                        </header>
+                        <p>KIT's College of Enginerring</p>	
                     </div>
                 </div>
             <hr class="major" />

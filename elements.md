@@ -35,7 +35,6 @@ nav-menu: true
 						</header>
 					</div>
 				</div>
-					Built a SaaS-based web platform for managing product listings, subscriptions, and customer transactions with end-to-end billing lifecycle support.
 					<ul>
 						<li>Automated invoice validation workflows using Python and xlwings, reducing manual effort by 30% and improving processing efficiency.</li>
 						<li>Processed and validated 500+ client invoices monthly with 99% accuracy by leveraging AI-based data extraction systems.</li> 
