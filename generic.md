@@ -26,6 +26,16 @@ nav-menu: true
             </header>          
         </div>
     </div>
+    <div class="row">
+        <div class="4u 12u$(medium)">
+            <h4>Programming Languages</h4>
+            <p><i class="fas fa-code"></i> C++<br><i class="fas fa-code"></i> C#<br><i class="fab fa-java"></i> Java (Core, Java 8)<br><i class="fab fa-js"></i> JavaScript</p>
+        </div>
+        <div class="4u 12u$(medium)">
+            <h4>Scripting</h4>
+            <p><i class="fas fa-terminal"></i> Bash</p>
+        </div>  
+    </div>
     <section id="two" class="spotlights">
 	    <section>
             <a href="https://github.com/ShreyashDesai09/Revenue-And-Subscription-Management-" class="image">
