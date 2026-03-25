@@ -25,6 +25,14 @@ nav-menu: true
             <header class="major">
                 <h3>Education</h3>
             </header>
+            <div>
+                <h4>Post Graduaction Diploma in Advanced Computing</h4>
+                    <p>Sunbeam Infotech Private Limited</p>
+            </div>            
+            <div>
+                <h4>Bachelors of Technologt</h4>
+                    <p>KIT's College of Enginerring</p>
+            </div>
         </div>
     </div>
     <hr class="major" />
