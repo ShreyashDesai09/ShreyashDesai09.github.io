@@ -14,9 +14,7 @@ nav-menu: true
 		<header class="major">
 			<h1>Work Experience</h1>
 		</header>
-
 <!-- Content -->
-
 </section>
 
 </div>
