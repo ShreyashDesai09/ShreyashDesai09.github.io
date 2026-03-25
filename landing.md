@@ -33,7 +33,7 @@ nav-menu: true
 				<p>
 					<p>Oct 2025 - Feb 2026</p>
 					<b>Technical Stack : </b>React.js, Java Spring Boot (Java 17), ASP .NET, Node.js, MySQL, Microsoft SQL Server Management Studio<br/>
-					<b>Project Description : </b>Built a SaaS-based web platform for managing product listings, subscriptions, and customer transactions with end-to-end billing lifecycle support.
+					<b>Project Description : </b>Built a SaaS-based web platform for managing product listings, subscriptions, and customer transactions with end-to-end billing lifecycle support.<br/>
 					<ul>
 						<li>Developed a scalable SaaS-based subscription and recurring billing platform using Java Spring Boot with 35+ RESTful APIs, supporting 100+
 						concurrent users and complete subscription lifecycle management.</li>
@@ -69,7 +69,7 @@ nav-menu: true
 				<p>
 					<p>Jun 2023 - May 2024</p>
 					<b>Technical Stack : </b>Arduino Mega, Hardware Design, Hardware Implementation <br/>
-					<b>Project Description : </b>Filtering CO₂ from Open Air and storing it in a Compressed form for further Industrial Use.
+					<b>Project Description : </b>Filtering CO₂ from Open Air and storing it in a Compressed form for further Industrial Use.<br/>
 					<ul>
 					<li>Designed and implemented a small-scale Carbon Capture & Storage prototype using Arduino-based control, demonstrating CO₂ capture from
 					air and storing it in compressed form.</li>

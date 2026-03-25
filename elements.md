@@ -27,7 +27,7 @@ nav-menu: true
 				<header class="major">
 					<h3>AppZen</h3>
 				</header>
-					<p>Customer Value Management<br/>Dec 2024 - June 2025</p>
+					<p>Customer Value Management Intern<br/>Dec 2024 - June 2025</p>
 				<p>
 					<ul>
 						<li>Automated invoice validation workflows using Python and xlwings, reducing manual effort by 30% and improving processing efficiency.</li>
