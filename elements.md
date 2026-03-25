@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Work Experience
-image: assets/images/pic01.jpg
+image: assets/images/Work-Experience.jpg
 nav-menu: true
 ---
 
