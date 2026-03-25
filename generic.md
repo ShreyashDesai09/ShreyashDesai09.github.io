@@ -45,10 +45,7 @@ nav-menu: true
                             <h4>Post Graduaction Diploma in Advanced Computing</h4>
                         </header>
                         <p>Sunbeam Infotech Private Limited</p>	
-                            <ul class="actions">
-                                <li><a href="https://github.com/ShreyashDesai09/Revenue-And-Subscription-Management-" class="button">GitHub</a></li>
-                            </ul>
-                        </div>
+                    </div>
                 </div>
             <hr class="major" />
     	</section>
