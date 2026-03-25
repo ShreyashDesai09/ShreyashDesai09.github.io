@@ -70,7 +70,7 @@ nav-menu: true
 				</header>
 				<p>
 					<header class="major">
-						<h4>Jun 2023 - may 2024</h4>
+						<h4>Jun 2023 - May 2024</h4>
 					</header>
 					Arduino Mega, Hardware Design, Hardware Implementation <br/>
 					Filtering CO₂ from Open Air and storing it in a Compressed form for further Industrial Use.
