@@ -34,7 +34,25 @@ nav-menu: true
             </div>
         </div>
     </div>
-    <hr class="major" />
+    <section id="two" class="spotlights">
+	    <section>
+            <a href="https://github.com/ShreyashDesai09/Revenue-And-Subscription-Management-" class="image">
+                    <img src="{% link assets/images/bizvenue-logo.png %}" alt="" data-position="center center" />
+                </a>
+            <div class="content">
+                    <div class="inner">
+                        <header class="major">
+                            <h3>Post Graduaction Diploma in Advanced Computing</h3>
+                        </header>
+                        <p>Sunbeam Infotech Private Limited</p>	
+                            <ul class="actions">
+                                <li><a href="https://github.com/ShreyashDesai09/Revenue-And-Subscription-Management-" class="button">GitHub</a></li>
+                            </ul>
+                        </div>
+                </div>
+            <hr class="major" />
+    	</section>
+    </section>
 </section>
 <section>
     <div class="content">
