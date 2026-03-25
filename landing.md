@@ -2,7 +2,7 @@
 title: Projects
 layout: landing
 description: 'Projects'
-image: assets/images/Projects.jpg
+image: assets/images/Project.jpg
 nav-menu: true
 ---
 
