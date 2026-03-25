@@ -1,7 +1,7 @@
 ---
 layout: post
-title: About
-description: About Shreyash
+title: ABOUT SHREYASH
+description: 
 image: assets/images/Shreyash-Ghibli.png
 nav-menu: true
 ---
