@@ -41,7 +41,6 @@ nav-menu: true
                 </div>
             <hr class="major" />
     	</section>
-        <br/>
         <section>
             <a href="https://github.com/ShreyashDesai09/Revenue-And-Subscription-Management-" class="image">
                 <img src="{% link assets/images/KIT.png %}" alt="" data-position="center center" />
