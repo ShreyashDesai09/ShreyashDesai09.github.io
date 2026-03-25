@@ -2,7 +2,7 @@
 layout: post
 title: About
 description: About Shreyash
-image: assets/images/Shreyash.png
+image: assets/images/Shreyash Ghibli.png
 nav-menu: true
 ---
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
