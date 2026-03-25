@@ -37,12 +37,12 @@ nav-menu: true
     <section id="two" class="spotlights">
 	    <section>
             <a href="https://github.com/ShreyashDesai09/Revenue-And-Subscription-Management-" class="image">
-                    <img src="{% link assets/images/bizvenue-logo.png %}" alt="" data-position="center center" />
-                </a>
+                <img src="{% link assets/images/PG-DAC.png %}" alt="" data-position="center center" />
+            </a>
             <div class="content">
                     <div class="inner">
                         <header class="major">
-                            <h3>Post Graduaction Diploma in Advanced Computing</h3>
+                            <h4>Post Graduaction Diploma in Advanced Computing</h4>
                         </header>
                         <p>Sunbeam Infotech Private Limited</p>	
                             <ul class="actions">
