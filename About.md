@@ -24,10 +24,6 @@ nav-menu: true
             <header class="major">
                 <h3>Education</h3>
             </header>          
-            <div>
-                <h4>Bachelors of Technologt</h4>
-                    <p>KIT's College of Enginerring</p>
-            </div>
         </div>
     </div>
     <section id="two" class="spotlights">
