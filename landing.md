@@ -31,7 +31,7 @@ nav-menu: true
 					<h3>Revenue And Subscription Management</h3>
 				</header>
 				<p>
-					<h6>Oct 2025 - Feb 2026</h6>
+					<p>Oct 2025 - Feb 2026</p>
 					React.js, Java Spring Boot (Java 17), ASP .NET, Node.js, MySQL, Microsoft SQL Server Management Studio<br/>
 					Built a SaaS-based web platform for managing product listings, subscriptions, and customer transactions with end-to-end billing lifecycle support.
 					<ul>
@@ -67,7 +67,7 @@ nav-menu: true
 					<h3>Direct Air Capture using Carbon Capture And Storage Technology</h3>
 				</header>
 				<p>
-					<h6>Jun 2023 - May 2024</h6>
+					<p>Jun 2023 - May 2024</p>
 					Arduino Mega, Hardware Design, Hardware Implementation <br/>
 					Filtering CO₂ from Open Air and storing it in a Compressed form for further Industrial Use.
 					<ul>
