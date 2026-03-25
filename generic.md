@@ -36,7 +36,7 @@ nav-menu: true
                         <header class="major">
                             <h4>Post Graduaction Diploma in Advanced Computing</h4>
                         </header>
-                        <p><b>Sunbeam Infotech Private Limited<b><br/>2026</p>	
+                        <p><b>Sunbeam Infotech Private Limited</b><br/>2026</p>	
                     </div>
                 </div>
             <hr class="major" />
@@ -50,7 +50,7 @@ nav-menu: true
                         <header class="major">
                             <h4>Bachelors of Technology in Electronics and Telecommunication</h4>
                         </header>
-                        <p><b>KIT's College of Enginerring<b><br/>2024</p>
+                        <p><b>KIT's College of Enginerring</b><br/>2024</p>
                     </div>
                 </div>
             <hr class="major" />
