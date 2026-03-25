@@ -56,6 +56,7 @@ nav-menu: true
             <hr class="major" />
     	</section>
     </section>
+    <hr class="major" />
 </section>
 <section>
     <div class="content">
