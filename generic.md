@@ -18,7 +18,6 @@ nav-menu: true
     </div>
     <hr class="major" />
 </section>
-
 <section>
     <div class="content">
         <div class="inner">
@@ -37,7 +36,6 @@ nav-menu: true
     </div>
     <hr class="major" />
 </section>
-
 <section>
     <div class="content">
         <div class="inner">
