@@ -19,7 +19,9 @@ nav-menu: true
 
 <section id="two" class="spotlights">
 	<section>
-			<img src="{% link assets/images/AppZen.png %}" alt="" data-position="center center" class="image"/>
+		<a href="" class="image">
+			<img src="{% link assets/images/AppZen.png %}" alt="" data-position="center center" />
+		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
