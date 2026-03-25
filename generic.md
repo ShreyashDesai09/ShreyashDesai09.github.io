@@ -26,16 +26,6 @@ nav-menu: true
             </header>          
         </div>
     </div>
-    <div class="row">
-        <div class="4u 12u$(medium)">
-            <h4>Programming Languages</h4>
-            <p><i class="fas fa-code"></i> C++<br><i class="fas fa-code"></i> C#<br><i class="fab fa-java"></i> Java (Core, Java 8)<br><i class="fab fa-js"></i> JavaScript</p>
-        </div>
-        <div class="4u 12u$(medium)">
-            <h4>Scripting</h4>
-            <p><i class="fas fa-terminal"></i> Bash</p>
-        </div>  
-    </div>
     <section id="two" class="spotlights">
 	    <section>
             <a href="https://github.com/ShreyashDesai09/Revenue-And-Subscription-Management-" class="image">
@@ -46,8 +36,7 @@ nav-menu: true
                         <header class="major">
                             <h4>Post Graduaction Diploma in Advanced Computing</h4>
                         </header>
-                        <p>Sunbeam Infotech Private Limited</p>	
-                        <p>2026</p>
+                        <p>Sunbeam Infotech Private Limited<br/>2026</p>	
                     </div>
                 </div>
             <hr class="major" />
@@ -59,10 +48,9 @@ nav-menu: true
             <div class="content">
                     <div class="inner">
                         <header class="major">
-                            <h4>Bachelors of Technology</h4>
+                            <h4>Bachelors of Technology in Electronics and Telecommunication</h4>
                         </header>
-                        <p>KIT's College of Enginerring</p>
-                        <p>2026</p>	
+                        <p>KIT's College of Enginerring<br/>2024</p>
                     </div>
                 </div>
             <hr class="major" />
