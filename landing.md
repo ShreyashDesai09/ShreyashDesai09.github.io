@@ -13,7 +13,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="https://github.com/ShreyashDesai09/Revenue-And-Subscription-Management-" class="image">
-			<img src="{% link assets/images/bizvenue-logo.png %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/bizvenue-logo.png %}" alt="" data-position="center center" style="margin-left: 30px; margin-top: 38px;"/>
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -46,7 +46,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="https://github.com/ShreyashDesai09/direct_air_capture" class="image">
-			<img src="{% link assets/images/Carbon-Capture-And-Storage.png %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/Carbon-Capture-And-Storage.png %}" alt="" data-position="top center" style="margin-right: 30px; margin-top: 200px;"/>
 		</a>
 		<div class="content">
 			<div class="inner">
