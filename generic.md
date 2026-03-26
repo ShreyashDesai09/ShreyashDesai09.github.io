@@ -14,7 +14,7 @@ nav-menu: true
             <header class="major">
                 <h3>Summary</h3>
             </header>
-            <p>I am a Software Engineer driven by the challenge of building systems that are both scalable and secure. My journey in technology began with hardware logic and has evolved into engineering enterprise-level SaaS platforms.
+            <p>I am a Software Engineer driven by the challenge of building systems that are both scalable and secure. My journey in technology began with hardware logic and has evolved into engineering enterprise-level SaaS platforms.<br>
             <b>Software Engineering Focus: </b>Currently specializing in the Java ecosystem, I focus on building Microservices and secure web applications using Spring Boot (Java 17/21).<br>
             <b>Real-World Automation: </b>During my time at AppZen, I specialized in AI Operations, where I automated financial workflows using Python and fine-tuned AI models to achieve 99% data accuracy .<br>
             <b>Systems Thinking: </b>My background in Electronics and Telecommunication allows me to understand systems from the ground up, whether I'm writing Arduino code for hardware prototypes or managing containerized deployments on AWS .<br>
