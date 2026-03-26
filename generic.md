@@ -18,7 +18,10 @@ nav-menu: true
             <b><u>Software Engineering Focus: </u></b>Currently specializing in the Java ecosystem, I focus on building Microservices and secure web applications using Spring Boot (Java 17/21) , ASP.NET , Node.js.<br>
             <b><u>Real-World Automation: </u></b>During my time at AppZen, I specialized in AI Operations, where I automated financial workflows using Python and fine-tuned AI models to achieve 99% data accuracy.<br>
             <b><u>Systems Thinking: </u></b>My background in Electronics and Telecommunication allows me to understand systems from the ground up, whether I'm writing Arduino code for hardware prototypes or managing containerized deployments on AWS.<br>
-            <b><u>Continuous Learning: </u></b>Beyond my formal education, I actively document my technical growth through my "90 Days of DevOps" blogs and solve complex algorithmic challenges to stay sharp.</p><br>
+            <b><u>Continuous Learning: </u></b>Beyond my formal education, I actively document my technical growth through my "90 Days of DevOps" blogs and solve complex algorithmic challenges to stay sharp.</p>
+            <ul class="actions">
+						<li><a href="https://drive.google.com/file/d/19MJ6vYFFmid5wZs0BHqtgpUVdS7JrpLr/view?usp=sharing" class="button">View My Full Resume</a></li>
+			</ul>
         </div>
     </div>
     <hr class="major" />
