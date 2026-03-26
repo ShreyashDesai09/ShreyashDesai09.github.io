@@ -20,7 +20,7 @@ nav-menu: true
             <b><u>Systems Thinking: </u></b>My background in Electronics and Telecommunication allows me to understand systems from the ground up, whether I'm writing Arduino code for hardware prototypes or managing containerized deployments on AWS.<br>
             <b><u>Continuous Learning: </u></b>Beyond my formal education, I actively document my technical growth through my "90 Days of DevOps" blogs and solve complex algorithmic challenges to stay sharp.</p>
             <ul class="actions">
-						<li><a href="https://drive.google.com/file/d/19MJ6vYFFmid5wZs0BHqtgpUVdS7JrpLr/view?usp=sharing" class="button">View My Full Resume</a></li>
+				<li><a href="https://drive.google.com/file/d/19MJ6vYFFmid5wZs0BHqtgpUVdS7JrpLr/view?usp=sharing" class="button">View My Full Resume</a></li>
 			</ul>
         </div>
     </div>
