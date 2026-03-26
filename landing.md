@@ -76,17 +76,4 @@ nav-menu: true
 		</div>
 	</section>
 </section>
-
-<!-- Three -->
-<section id="three">
-	<div class="inner">
-		<header class="major">
-			<h2>About</h2>
-		</header>
-		<p>About Shreyash Desai</p>
-		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
-		</ul>
-	</div>
-</section>
 </div>
