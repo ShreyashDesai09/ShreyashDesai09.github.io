@@ -10,9 +10,7 @@ nav-menu: true
 
 <section id="two" class="spotlights">
     <section>
-        <a href="" class="image">
-            <img src="{% link assets/images/Shreyash_About.jpg %}" alt="" data-position="center center" />
-        </a>
+            <img src="{% link assets/images/Shreyash_About.jpg %}" alt="" data-position="center center" style="margin-left: 30px; margin-top: 30px;" />
         <div class="content">
             <div class="inner">
                 <header class="major">
