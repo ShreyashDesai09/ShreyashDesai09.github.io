@@ -56,7 +56,7 @@ nav-menu: true
     	</section>
         <section>
             <a href="https://github.com/ShreyashDesai09/Revenue-And-Subscription-Management-" class="image">
-                <img src="{% link assets/images/KIT.png %}" alt="" data-position="center center" style="margin-right: 30px; margin-top: 30px; margin-bottom : 30px;"/>
+                <img src="{% link assets/images/KIT.png %}" alt="" data-position="center center" style="margin-right: 50px; margin-top: 30px; margin-bottom : 30px;"/>
             </a>
             <div class="content">
                     <div class="inner">
