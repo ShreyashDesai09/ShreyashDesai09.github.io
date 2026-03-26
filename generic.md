@@ -41,7 +41,7 @@ nav-menu: true
     </div>
     <section id="two" class="spotlights">
 	    <section>
-            <a href="https://github.com/ShreyashDesai09/Revenue-And-Subscription-Management-" class="image">
+            <a href="" class="image">
                 <img src="{% link assets/images/PG-DAC.png %}" alt="" data-position="center center" style="margin-left: 30px; margin-top: 30px; margin-bottom : 30px;"/>
             </a>
             <div class="content">
@@ -55,7 +55,7 @@ nav-menu: true
             <hr class="major" />
     	</section>
         <section>
-            <a href="https://github.com/ShreyashDesai09/Revenue-And-Subscription-Management-" class="image">
+            <a href="" class="image">
                 <img src="{% link assets/images/KIT.png %}" alt="" data-position="center center" style="margin-right: 50px; margin-top: 30px; margin-bottom : 30px;"/>
             </a>
             <div class="content">
