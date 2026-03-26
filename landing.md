@@ -34,9 +34,10 @@ nav-menu: true
 					</ul>
 				</p>	
 				<span>	
-						<a href="https://github.com/ShreyashDesai09/Revenue-And-Subscription-Management-" class="button">GitHub</a>
-						<a href="https://drive.google.com/file/d/1FOLB09axd2wJzV1GXKnlRWesasFidDy1/view?usp=sharing" class="button">Project Explaination</a>
-					<!--- <ul class="actions">
+						<a href="https://github.com/ShreyashDesai09/Revenue-And-Subscription-Management-" class="button" style="margin-right: 10px; margin-bottom: 10px; display: inline-block;">GitHub</a>
+						<a href="https://drive.google.com/file/d/1FOLB09axd2wJzV1GXKnlRWesasFidDy1/view?usp=sharing" class="button" style="margin-right: 10px; margin-bottom: 10px; display: inline-block;">
+						Project Explanation</a>					
+						<!--- <ul class="actions">
 						<li><a href="https://github.com/ShreyashDesai09/Revenue-And-Subscription-Management-" class="button">Project Demo</a></li>
 					</ul> -->
 				</span>
