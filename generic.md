@@ -15,10 +15,10 @@ nav-menu: true
                 <h3>Summary</h3>
             </header>
             <p>I am a Software Engineer driven by the challenge of building systems that are both scalable and secure. My journey in technology began with hardware logic and has evolved into engineering enterprise-level SaaS platforms.
-            <b>Software Engineering Focus: </b>Currently specializing in the Java ecosystem, I focus on building Microservices and secure web applications using Spring Boot (Java 17/21).
-            <b>Real-World Automation: </b>During my time at AppZen, I specialized in AI Operations, where I automated financial workflows using Python and fine-tuned AI models to achieve 99% data accuracy .
-            <b>Systems Thinking: </b>My background in Electronics and Telecommunication allows me to understand systems from the ground up, whether I'm writing Arduino code for hardware prototypes or managing containerized deployments on AWS .
-            <b>Continuous Learning: </b>Beyond my formal education, I actively document my technical growth through my "90 Days of DevOps" blogs and solve complex algorithmic challenges to stay sharp .</p>
+            <b>Software Engineering Focus: </b>Currently specializing in the Java ecosystem, I focus on building Microservices and secure web applications using Spring Boot (Java 17/21).<br>
+            <b>Real-World Automation: </b>During my time at AppZen, I specialized in AI Operations, where I automated financial workflows using Python and fine-tuned AI models to achieve 99% data accuracy .<br>
+            <b>Systems Thinking: </b>My background in Electronics and Telecommunication allows me to understand systems from the ground up, whether I'm writing Arduino code for hardware prototypes or managing containerized deployments on AWS .<br>
+            <b>Continuous Learning: </b>Beyond my formal education, I actively document my technical growth through my "90 Days of DevOps" blogs and solve complex algorithmic challenges to stay sharp .</p><br>
         </div>
     </div>
     <hr class="major" />
