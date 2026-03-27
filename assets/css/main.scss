@@ -13,66 +13,59 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
-/* 1. Darken the background */
-.resume-overlay {
+/* 1. Background Dimmer */
+.resume-pop-overlay {
     position: fixed;
     top: 0;
     left: 0;
     width: 100%;
     height: 100%;
-    background: rgba(0, 0, 0, 0.8);
+    background: rgba(0, 0, 0, 0.85); /* Dark background like your screenshot */
     display: none;
     z-index: 9999;
     justify-content: center;
     align-items: center;
 }
 
-.resume-overlay:target {
+/* 2. Show the pop-up */
+.resume-pop-overlay:target {
     display: flex;
 }
 
-.resume-close-link {
+/* 3. Exit Area (the dark part) */
+.resume-exit-area {
     position: absolute;
     width: 100%;
     height: 100%;
+    cursor: default;
 }
 
-/* 2. The Document Wrapper */
-.resume-wrapper {
+/* 4. The White Paper (Cut-to-Cut) */
+.resume-white-paper {
     position: relative;
     width: 90%;
-    max-width: 850px;
-    height: 90vh; /* Takes up most of the screen height */
-    background: white;
-    box-shadow: 0 10px 50px rgba(0,0,0,0.5);
+    height: 95vh; /* Takes up most of the screen */
+    max-width: 900px;
+    background: #fff;
+    box-shadow: 0 10px 50px rgba(0,0,0,0.7); /* Deep floating shadow */
     z-index: 10000;
-    border-radius: 4px;
-    overflow: hidden; /* This is the key to 'cut-to-cut' */
-}
-
-/* 3. The Clipper (Removes gray browser bars) */
-.pdf-clipper {
-    width: 100%;
-    height: 100%;
     overflow: hidden;
 }
 
-/* Force the object to be slightly larger to hide scrollbars if they appear */
-.pdf-clipper object {
-    width: 100%;
-    height: 100%;
-    border: none;
-}
-
-/* 4. The Close Button */
-.close-x {
+/* 5. The Close Button (Floating on the right) */
+.resume-x-btn {
     position: absolute;
-    top: 10px;
+    top: 5px;
     right: 20px;
-    color: #333; /* Darker so it shows on white paper */
+    color: #333;
     font-size: 35px;
     text-decoration: none;
+    font-weight: bold;
     z-index: 10001;
+}
+
+.resume-x-btn:hover {
+    color: #ff0000;
 }
 
 	@include skel-breakpoints((

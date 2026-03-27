@@ -26,18 +26,16 @@ nav-menu: true
                 <ul class="actions">
                     <li><a href="#view-resume" class="button">View My Full Resume</a></li>
                 </ul>
-                <div id="view-resume" class="resume-overlay">
-                    <a href="#" class="resume-close-link"></a>
-                    <div class="resume-wrapper">
-                        <a href="#" class="close-x">&times;</a>                        
-                        <div class="pdf-clipper">
-                            <object data="assets/Documents/Shreyash Desai - Full Stack Developer.pdf#toolbar=0&navpanes=0&scrollbar=0" 
-                                    type="application/pdf" 
-                                    width="100%" 
-                                    height="100%">
-                                <p>Unable to display PDF. <a href="assets/Documents/Shreyash Desai - Full Stack Developer.pdf">Download instead.</a></p>
-                            </object>
-                        </div>
+                <div id="view-resume" class="resume-pop-overlay">
+                    <a href="#" class="resume-exit-area"></a>
+                    <div class="resume-white-paper">
+                        <a href="#" class="resume-x-btn">&times;</a>                        
+                        <iframe 
+                            src="https://drive.google.com/file/d/1w0kMmSkfdyd5Gz50PliJRQ2RwhFOaC0k/preview" 
+                            width="100%" 
+                            height="100%" 
+                            style="border: none;">
+                        </iframe>
                     </div>
                 </div>
             </div>
