@@ -70,6 +70,130 @@
     color: #ff0000;
 }
 
+/* 1. The Background Overlay */
+
+.resume-pop-overlay {
+
+    position: fixed;
+
+    top: 0;
+
+    left: 0;
+
+    width: 100%;
+
+    height: 100%;
+
+    background: rgba(0, 0, 0, 0.85);
+
+    display: none;
+
+    z-index: 10000; /* High enough to be over everything */
+
+    justify-content: center;
+
+    padding-top: 100px; /* SHIFTS DOWN TO AVOID FIXED NAV BAR */
+
+    overflow: hidden;
+
+}
+
+
+.resume-pop-overlay:target {
+
+    display: flex;
+
+}
+
+
+.resume-exit-area {
+
+    position: absolute;
+
+    width: 100%;
+
+    height: 100%;
+
+    cursor: default;
+
+}
+
+
+/* 2. The PDF Container (Cut-to-Cut) */
+
+.resume-clipper-box {
+
+    position: relative;
+
+    width: 90%;
+
+    max-width: 850px;
+
+    height: 85vh;
+
+    background: #fff;
+
+    box-shadow: 0 10px 50px rgba(0,0,0,0.5);
+
+    overflow: hidden; /* Hides Drive scroll/zoom bars */
+
+}
+
+
+.clean-pdf-iframe {
+
+    width: 100%;
+
+    height: 115%; /* Forces bars out of the box */
+
+    border: none;
+
+    position: absolute;
+
+    top: -45px; /* Hides top Google menu */
+
+}
+
+
+/* 3. The Video Container */
+
+.video-wrapper {
+
+    position: relative;
+
+    width: 90%;
+
+    max-width: 1000px;
+
+    box-shadow: 0 20px 50px rgba(0,0,0,0.9);
+
+    z-index: 10001;
+
+}
+
+
+/* 4. The Close Button */
+
+.resume-x-btn {
+
+    position: absolute;
+
+    top: 10px;
+
+    right: 25px;
+
+    color: #333;
+
+    font-size: 35px;
+
+    text-decoration: none;
+
+    font-weight: bold;
+
+    z-index: 10002;
+
+}
+
 	@include skel-breakpoints((
 		xlarge: '(max-width: 1680px)',
 		large: '(max-width: 1280px)',
