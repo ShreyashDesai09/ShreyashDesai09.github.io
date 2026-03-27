@@ -13,53 +13,61 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+/* 1. The Overlay */
 .resume-pop-overlay {
     position: fixed;
     top: 0;
     left: 0;
     width: 100%;
     height: 100%;
-    background: rgba(0, 0, 0, 0.85);
+    background: rgba(0, 0, 0, 0.8); /* Dimmed background */
     display: none;
-    z-index: 999; /* Lower than your Header, but higher than the page content */
+    z-index: 999; 
     justify-content: center;
-    /* Pushes the document down so it doesn't hide under the Nav bar */
-    padding-top: 120px; 
-    align-items: flex-start; 
-    overflow-y: auto;
+    padding-top: 100px; /* Adjust this to match your Nav Bar height */
+    overflow: hidden; /* Prevent the website from scrolling */
 }
 
 .resume-pop-overlay:target {
     display: flex;
 }
 
-.resume-exit-area {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    cursor: default;
-}
-
-.resume-white-paper {
+/* 2. The Clipper Box (The Magic Part) */
+.resume-clipper-box {
     position: relative;
     width: 90%;
     max-width: 850px;
-    height: 1200px; /* Forces a long page look for 'cut-to-cut' scrolling */
+    height: 85vh;
     background: #fff;
-    box-shadow: 0 10px 50px rgba(0,0,0,0.8);
+    box-shadow: 0 10px 50px rgba(0,0,0,0.5);
+    overflow: hidden; /* Hides the scrollbars/zoom buttons of the iframe */
     z-index: 1000;
-    margin-bottom: 50px;
 }
 
+/* 3. The Iframe (Slightly larger than the box to hide UI) */
+.clean-pdf-iframe {
+    width: 100%;
+    height: 110%; /* Makes it taller to push zoom icons off the bottom */
+    border: none;
+    position: absolute;
+    top: -5px; /* Pushes top bars up */
+    left: 0;
+}
+
+/* 4. The Close Button */
 .resume-x-btn {
     position: absolute;
-    top: -50px; /* Moves the X above the paper so it's visible against the dark background */
-    right: 0;
-    color: #fff;
-    font-size: 45px;
+    top: 10px;
+    right: 25px;
+    color: #333;
+    font-size: 35px;
     text-decoration: none;
+    font-weight: bold;
+    z-index: 10001; /* Must be above the iframe */
+}
+
+.resume-x-btn:hover {
+    color: #ff0000;
 }
 
 	@include skel-breakpoints((

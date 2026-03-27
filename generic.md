@@ -14,10 +14,10 @@ nav-menu: true
             <img src="{% link assets/images/Shreyash_About.jpg %}" alt="" data-position="center center" style="margin-left: 30px; margin-top: 120px;"/>
         </a>
         <div class="content">
-            <div class="inner">
-                <header class="major">
+            <header class="major">
                     <h3>Summary</h3>
-                </header>
+            </header>
+            <div class="inner">
                 <p>I am a Software Engineer driven by the challenge of building systems that are both scalable and secure. My journey in technology began with hardware logic and has evolved into engineering enterprise-level SaaS platforms.<br>
                 <b><u>Software Engineering Focus: </u></b>Currently specializing in the Java ecosystem, I focus on building Microservices and secure web applications using Spring Boot (Java 17/21) , ASP.NET , Node.js.<br>
                 <b><u>Real-World Automation: </u></b>During my time at AppZen, I specialized in AI Operations, where I automated financial workflows using Python and fine-tuned AI models to achieve 99% data accuracy.<br>
@@ -28,13 +28,13 @@ nav-menu: true
                 </ul>
                 <div id="view-resume" class="resume-pop-overlay">
                     <a href="#" class="resume-exit-area"></a>
-                    <div class="resume-white-paper">
-                        <a href="#" class="resume-x-btn">&times;</a>                        
-                        <object data="https://drive.google.com/file/d/1w0kMmSkfdyd5Gz50PliJRQ2RwhFOaC0k/preview" 
-                                type="text/html" 
-                                width="100%" 
-                                height="100%">
-                        </object>
+                    <div class="resume-clipper-box">
+                        <a href="#" class="resume-x-btn">&times;</a>  
+                        <iframe 
+                            src="https://drive.google.com/file/d/1w0kMmSkfdyd5Gz50PliJRQ2RwhFOaC0k/preview#toolbar=0&navpanes=0&scrollbar=0" 
+                            class="clean-pdf-iframe"
+                            scrolling="no">
+                        </iframe>
                     </div>
                 </div>
             </div>
