@@ -70,13 +70,27 @@ nav-menu: true
                 <img src="{% link assets/images/KIT.png %}" alt="" data-position="center center" style="margin-right: 50px; margin-top: 30px; margin-bottom : 30px;"/>
             </a>
             <div class="content">
-                    <div class="inner">
-                        <header class="major">
-                            <h4>Bachelors of Technology in Electronics and Telecommunication</h4>
-                        </header>
-                        <p><b>KIT's College of Enginerring</b><br/>2024</p>
-                    </div>
+                <div class="inner">
+                    <header class="major">
+                        <h4>Bachelors of Technology in Electronics and Telecommunication</h4>
+                    </header>
+                    <p><b>KIT's College of Enginerring</b><br/>2024</p>
                 </div>
+            </div>
+            <ul class="actions">
+                <li><a href="#view-degree" class="button">View Graduation Certificate</a></li>
+            </ul>
+            <div id="view-degree" class="resume-pop-overlay">
+                <a href="#" class="resume-exit-area"></a>
+                <div class="resume-clipper-box">
+                    <a href="#" class="resume-x-btn">&times;</a>
+                    <iframe 
+                        src="https://drive.google.com/file/d/1_XqtMJIG5-2XWOXfWjGmCIlld-AkMDj7/preview#toolbar=0&navpanes=0&scrollbar=0" 
+                        class="clean-pdf-iframe"
+                        scrolling="no">
+                    </iframe>
+                </div>
+            </div>
             <hr class="major" />
     	</section>
     </section>
