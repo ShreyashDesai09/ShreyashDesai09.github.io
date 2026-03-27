@@ -66,33 +66,33 @@ nav-menu: true
             <hr class="major" />
     	</section>
         <section>
-            <a href="" class="image">
-                <img src="{% link assets/images/KIT.png %}" alt="" data-position="center center" style="margin-right: 50px; margin-top: 30px; margin-bottom : 30px;"/>
+            <a href="javascript:void(0);" class="image">
+                <img src="{% link assets/images/KIT.png %}" alt="KIT College" data-position="center center" style="margin-right: 50px; margin-top: 30px; margin-bottom: 30px;"/>
             </a>
             <div class="content">
                 <div class="inner">
                     <header class="major">
                         <h4>Bachelors of Technology in Electronics and Telecommunication</h4>
                     </header>
-                    <p><b>KIT's College of Enginerring</b><br/>2024</p>
+                    <p><b>KIT's College of Engineering</b><br/>Graduated 2024</p>     
+                    <ul class="actions">
+                        <li><a href="#view-degree" class="button small">View Graduation Certificate</a></li>
+                    </ul>
                 </div>
             </div>
-            <ul class="actions">
-                <li><a href="#view-degree" class="button">View Graduation Certificate</a></li>
-            </ul>
-            <div id="view-degree" class="resume-pop-overlay">
-                <a href="#" class="resume-exit-area"></a>
-                <div class="resume-clipper-box">
-                    <a href="#" class="resume-x-btn">&times;</a>
-                    <iframe 
-                        src="https://drive.google.com/file/d/1_XqtMJIG5-2XWOXfWjGmCIlld-AkMDj7/preview#toolbar=0&navpanes=0&scrollbar=0" 
-                        class="clean-pdf-iframe"
-                        scrolling="no">
-                    </iframe>
-                </div>
+        </section>
+        <div id="view-degree" class="resume-pop-overlay">
+            <a href="#" class="resume-exit-area"></a>
+            <div class="resume-clipper-box">
+                <a href="#" class="resume-x-btn">&times;</a>
+                <iframe 
+                    src="https://drive.google.com/file/d/1_XqtMJIG5-2XWOXfWjGmCIlld-AkMDj7/preview#toolbar=0&navpanes=0&scrollbar=0" 
+                    class="clean-pdf-iframe"
+                    scrolling="no"
+                    style="border:none;">
+                </iframe>
             </div>
-            <hr class="major" />
-    	</section>
+        </div>
     </section>
     <hr class="major" />
 </section>
