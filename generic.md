@@ -23,15 +23,16 @@ nav-menu: true
                 <b><u>Real-World Automation: </u></b>During my time at AppZen, I specialized in AI Operations, where I automated financial workflows using Python and fine-tuned AI models to achieve 99% data accuracy.<br>
                 <b><u>Systems Thinking: </u></b>My background in Electronics and Telecommunication allows me to understand systems from the ground up, whether I'm writing Arduino code for hardware prototypes or managing containerized deployments on AWS.<br>
                 <b><u>Continuous Learning: </u></b>Beyond my formal education, I actively document my technical growth through my "90 Days of DevOps" blogs and solve complex algorithmic challenges to stay sharp.</p>
-              <ul class="actions">
-                    <li><a href="#resume-modal" class="button">View My Full Resume</a></li>
-                </ul>
-                <div id="resume-modal" class="modal-overlay">
-                    <div class="modal-content">
-                        <a href="#" class="close-button">&times;</a>
-                        <iframe src="assets/Documents/Shreyash Desai - Full Stack Developer.pdf" width="100%" height="500px"></iframe>
-                    </div>
+             <ul class="actions">
+                <li><a href="#view-resume" class="button">View My Full Resume</a></li>
+            </ul>
+            <div id="view-resume" class="resume-floating-container">
+                <a href="#" class="resume-backdrop"></a>                 
+                <div class="resume-wrapper">
+                    <a href="#" class="resume-close">&times;</a>
+                    <img src="assets/Documents/Shreyash-Desai-Resume.png" alt="Shreyash Desai Resume" class="resume-image">
                 </div>
+            </div>
             </div>
         </div>
         <hr class="major" />
