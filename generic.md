@@ -30,12 +30,11 @@ nav-menu: true
                     <a href="#" class="resume-exit-area"></a>
                     <div class="resume-white-paper">
                         <a href="#" class="resume-x-btn">&times;</a>                        
-                        <iframe 
-                            src="https://drive.google.com/file/d/1w0kMmSkfdyd5Gz50PliJRQ2RwhFOaC0k/preview" 
-                            width="100%" 
-                            height="100%" 
-                            style="border: none;">
-                        </iframe>
+                        <object data="https://drive.google.com/file/d/1w0kMmSkfdyd5Gz50PliJRQ2RwhFOaC0k/preview" 
+                                type="text/html" 
+                                width="100%" 
+                                height="100%">
+                        </object>
                     </div>
                 </div>
             </div>
