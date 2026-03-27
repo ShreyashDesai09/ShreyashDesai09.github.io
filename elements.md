@@ -36,6 +36,9 @@ nav-menu: true
 						<li>Streamlined validation workflows by optimizing data handling and reducing processing time for financial document analysis.</li>
 					</ul>
 				</p>
+				<span>	
+						<a href="" class="button" style="margin-right: 10px; margin-bottom: 50px; display: inline-block;">InternShip Completion Certificate</a>
+				</span>
 			</div>
 		</div>
 	</section>

@@ -13,6 +13,45 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+		/* The background overlay (dimmed) */
+		.modal-overlay {
+			position: fixed;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 100%;
+			background: rgba(0, 0, 0, 0.8); /* 80% opacity black background */
+			display: none; /* Hidden by default */
+			z-index: 1000;
+			justify-content: center;
+			align-items: center;
+		}
+
+		/* Show the modal when the URL hash matches the ID (#resume-modal) */
+		.modal-overlay:target {
+			display: flex;
+		}
+
+		/* The actual box containing the PDF */
+		.modal-content {
+			background: white;
+			padding: 20px;
+			border-radius: 8px;
+			width: 80%;
+			max-width: 900px;
+			position: relative;
+		}
+
+		/* The close button (X) */
+		.close-button {
+			position: absolute;
+			top: 10px;
+			right: 20px;
+			font-size: 30px;
+			text-decoration: none;
+			color: #333;
+		}
+
 	@include skel-breakpoints((
 		xlarge: '(max-width: 1680px)',
 		large: '(max-width: 1280px)',
