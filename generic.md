@@ -142,5 +142,4 @@ nav-menu: true
             </div>
         </div>
     </div>
-<hr class="major"/>
 </section>
