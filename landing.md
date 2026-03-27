@@ -12,8 +12,9 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 <section>
+<section>
     <a href="https://github.com/ShreyashDesai09/Revenue-And-Subscription-Management-" class="image">
-        <img src="{% link assets/images/bizvenue-logo.png %}" alt="" data-position="center center" style="margin-left: 30px; margin-top: 38px; width: 80%;"/>
+        <img src="{% link assets/images/bizvenue-logo.png %}" alt="BizVenue Logo" data-position="center center" style="margin-left: 30px; margin-top: 38px; width: 80%;"/>
     </a>
     <div class="content">
         <div class="inner">
@@ -22,23 +23,22 @@ nav-menu: true
             </header>
             <p>Oct 2025 - Feb 2026</p>
             <p>
-                <b>Technical Stack:</b> React.js, Java Spring Boot (Java 17), ASP .NET, Node.js, MySQL, Microsoft SQL Server Management Studio<br/>
-                <b>Project Description:</b> Built a SaaS-based web platform for managing product listings, subscriptions, and customer transactions with end-to-end billing lifecycle support.
+                <b>Technical Stack:</b> React.js, Java Spring Boot (Java 17), ASP .NET, Node.js, MySQL<br/>
+                <b>Description:</b> Built a SaaS platform for managing product listings, subscriptions, and billing lifecycles.
             </p>
             <ul>
-                <li>Developed a scalable SaaS-based subscription and recurring billing platform using Java Spring Boot with 35+ RESTful APIs, supporting 100+ concurrent users.</li>
-                <li>Implemented JWT-based authentication and role-based authorization using Spring Security for secure multi-user access.</li> 
-                <li>Containerized services using Docker and Docker Compose, and deployed on AWS EC2 to ensure scalable and efficient application deployment.</li>
+                <li>Developed 35+ RESTful APIs for complete subscription lifecycle management.</li>
+                <li>Implemented JWT-based authentication and role-based authorization using Spring Security.</li> 
+                <li>Containerized services using Docker Compose for scalable AWS EC2 deployment.</li>
+            </ul>     
+            <ul class="actions">
+                <li><a href="https://github.com/ShreyashDesai09/Revenue-And-Subscription-Management-" class="button small">GitHub</a></li>
+                <li><a href="#view-explanation" class="button small">Project Explanation</a></li>
+                <li><a href="#project-demo-video" class="button small">Project Demo</a></li>
             </ul>
-            <span style="display: block; margin-top: 20px;">  
-                <a href="https://github.com/ShreyashDesai09/Revenue-And-Subscription-Management-" class="button small" style="margin-right: 10px; margin-bottom: 20px;">GitHub</a>
-                <a href="#view-explanation" class="button small" style="margin-right: 10px; margin-bottom: 20px;">Project Explanation</a>
-                <a href="#project-demo-video" class="button small" style="margin-bottom: 20px;">Project Demo</a>
-            </span>
         </div>
     </div>
 </section>
-
 <div id="view-explanation" class="resume-pop-overlay">
     <a href="#" class="resume-exit-area"></a>
     <div class="resume-clipper-box">
@@ -50,10 +50,11 @@ nav-menu: true
 <div id="project-demo-video" class="resume-pop-overlay">
     <a href="#" class="resume-exit-area"></a>
     <div class="video-wrapper">
-        <a href="#" class="resume-x-btn" style="color: white; top: -40px; right: 0;">&times;</a>
+        <a href="#" class="resume-x-btn" style="color: white; top: 10px; right: 20px;">&times;</a>
         <video width="100%" height="auto" controls class="cut-to-cut-video">
             <source src="assets/videos/bizvenue-demo.mp4" type="video/mp4">
-            </video>
+            Your browser does not support the video tag.
+        </video>
     </div>
 </div>
 	<section>
