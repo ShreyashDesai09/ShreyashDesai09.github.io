@@ -13,69 +13,57 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
-		/* 1. The Dimmed Background (Full Page) */
-.resume-floating-container {
+/* 1. Darken the background of the website */
+.resume-overlay {
     position: fixed;
     top: 0;
     left: 0;
     width: 100%;
     height: 100%;
+    background: rgba(0, 0, 0, 0.85); /* Dark background */
+    display: none; 
     z-index: 9999;
-    display: none; /* Hidden by default */
     justify-content: center;
-    align-items: flex-start; /* Starts at the top so you can scroll the whole page */
-    overflow-y: auto; /* Allows the background page to scroll */
-    background: rgba(0, 0, 0, 0.85); /* Darker, sleek backdrop */
+    align-items: center;
 }
 
-/* 2. Show when clicked */
-.resume-floating-container:target {
+/* 2. Show the overlay when button is clicked */
+.resume-overlay:target {
     display: flex;
 }
 
-/* 3. The Invisible Backdrop (Click to close) */
-.resume-backdrop {
-    position: fixed;
-    top: 0;
-    left: 0;
+/* 3. The 'Invisible' click-to-close area */
+.resume-close-overlay {
+    position: absolute;
     width: 100%;
     height: 100%;
-    cursor: zoom-out;
+    cursor: default;
 }
 
-/* 4. The Document Wrapper (Floating) */
-.resume-wrapper {
+/* 4. The Floating Document Box */
+.resume-box {
     position: relative;
-    margin-top: 50px;
-    margin-bottom: 50px;
-    width: 90%;
-    max-width: 850px;
+    width: 80%;
+    height: 90%; /* This allows you to see the full doc */
+    max-width: 900px;
+    background: transparent; /* Removes the white border */
+    box-shadow: 0 10px 30px rgba(0,0,0,0.5); /* Floating shadow */
     z-index: 10000;
-    box-shadow: 0 20px 50px rgba(0,0,0,0.5); /* Adds the 'floating' shadow */
 }
 
-/* 5. The Image itself (No borders) */
-.resume-image {
-    width: 100%;
-    height: auto;
-    display: block;
-    border-radius: 4px;
-}
-
-/* 6. The Floating 'X' Close Button */
-.resume-close {
+/* 5. The Close 'X' (Red for visibility) */
+.close-x {
     position: absolute;
     top: -40px;
     right: 0;
     color: white;
-    font-size: 40px;
+    font-size: 45px;
     text-decoration: none;
-    font-weight: bold;
-    transition: 0.3s;
+    font-weight: 300;
 }
 
-.resume-close:hover {
-    color: #ff4d4d; /* Subtle red hover effect */
+.close-x:hover {
+    color: #ff5555;
 }
 
 	@include skel-breakpoints((
