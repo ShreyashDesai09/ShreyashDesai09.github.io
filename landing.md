@@ -30,7 +30,7 @@ nav-menu: true
                     <ul class="actions">
                         <li><a href="https://github.com/ShreyashDesai09/Revenue-And-Subscription-Management-" class="button small">GitHub</a></li>
                         <li><a href="#view-explanation" class="button small">Project Explanation</a></li>
-                        <li><a href="#project-demo-video" class="button small">Project Demo</a></li>
+                        <!-- <li><a href="#project-demo-video" class="button small">Project Demo</a></li> -->
                     </ul>
                 </div>
             </div>
