@@ -1,7 +1,7 @@
 ---
 layout: allposts
 title: Achievements
-landing-title: 'All posts'
+landing-title: false
 nav-menu: true
 description: null
 image: assets/images/Achievements.jpeg
