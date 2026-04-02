@@ -4,7 +4,7 @@ title: Achievements
 landing-title: ' '
 nav-menu: true
 description: null
-image: 
+image: assets/images/Motivation.jpeg
 author: null
 show_tile: true
 ---
