@@ -2,16 +2,15 @@
 
 A personal portfolio website built with Jekyll using the "Forty" theme by [HTML5 UP](https://html5up.net/).  
 
-![Forty Theme](assets/images/forty.jpg "Forty Theme")
-
 ## About
 
-This is the personal website of Shreyash Desai, a Full Stack Developer. The site showcases projects, blog posts, and contact information.
+![Shreyash Image](assets/images/Shreyash-Ghibli.png "Shreyash Image")
+
+This is the personal website of Shreyash Desai, a Full Stack Developer. The site showcases my projects, blog posts, and contact information.
 
 ## How to Use
 
-For those unfamiliar with how Jekyll works, check out [jekyllrb.com](https://jekyllrb.com/) for all the details, 
-or read up on just the basics of [front matter](https://jekyllrb.com/docs/frontmatter/), [writing posts](https://jekyllrb.com/docs/posts/), 
+For those unfamiliar with how Jekyll works, check out [jekyllrb.com](https://jekyllrb.com/) for all the details, or read up on just the basics of [front matter](https://jekyllrb.com/docs/frontmatter/), [writing posts](https://jekyllrb.com/docs/posts/), 
 and [creating pages](https://jekyllrb.com/docs/pages/).
 
 Simply fork this repository and start editing the `_config.yml` file!
