@@ -2,7 +2,7 @@
 
 ![Shreyash Image](assets/images/Shreyash-Ghibli.png "Shreyash Image")
 
-* This is my personal PORTFOLIO of **Shreyash Desai**, a **Full Stack Developer**. The site showcases my [Projects](https://shreyashdesai09.github.io/landing.html), [Work Experience](https://shreyashdesai09.github.io/elements.html) , [Achievements](https://shreyashdesai09.github.io/all_posts.html) and [Contact](https://shreyashdesai09.github.io/generic.html).
+* This is my personal PORTFOLIO of **Shreyash Desai**, a **Full Stack Developer**. The site showcases my [Projects](https://shreyashdesai09.github.io/landing.html) , [Work Experience](https://shreyashdesai09.github.io/elements.html) , [Achievements](https://shreyashdesai09.github.io/all_posts.html) and [Contact](https://shreyashdesai09.github.io/generic.html).
 
 * **Portfolio Link :- [Portfolio](https://shreyashdesai09.github.io/)** 
 
