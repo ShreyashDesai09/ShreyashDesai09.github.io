@@ -6,7 +6,7 @@ A personal portfolio website built with Jekyll using the "Forty" theme by [HTML5
 
 ![Shreyash Image](assets/images/Shreyash-Ghibli.png "Shreyash Image")
 
-This is the personal website of Shreyash Desai, a Full Stack Developer. The site showcases my projects, blog posts, and contact information.
+This is the personal website of Shreyash Desai, a Full Stack Developer. The site showcases my [Projects](https://shreyashdesai09.github.io/landing.html), [Work Experience](https://shreyashdesai09.github.io/elements.html) , [Achievements](https://shreyashdesai09.github.io/all_posts.html) and [Contact](https://shreyashdesai09.github.io/generic.html).
 
 ## How to Use
 
