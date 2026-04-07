@@ -1,4 +1,4 @@
-# Shreyash Desai's Portfolio
+# Shreyash's Portfolio
 
 ![Shreyash Image](assets/images/Shreyash-Ghibli.png "Shreyash Image")
 
