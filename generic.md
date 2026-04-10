@@ -24,19 +24,8 @@ nav-menu: true
                 <b><u>Systems Thinking:</u></b> My background in Electronics and Telecommunication allows me to understand systems from the ground up, whether I'm writing Arduino code for hardware prototypes or managing containerized deployments on AWS.<br>
                 <b><u>Continuous Learning:</u></b> Beyond my formal education, I actively document my technical growth through my "90 Days of DevOps" blogs and solve complex algorithmic challenges to stay sharp.</p>
                 <ul class="actions">
-                    <li><a href="#view-resume" class="button">View My Full Resume</a></li>
+                    <li><a href="https://drive.google.com/file/d/1w0kMmSkfdyd5Gz50PliJRQ2RwhFOaC0k/view?usp=drive_link" class="button" target="_blank">View My Full Resume</a></li>
                 </ul>
-                <div id="view-resume" class="resume-pop-overlay">
-                    <a href="#" class="resume-exit-area"></a>
-                    <div class="resume-clipper-box">
-                        <a href="#" class="resume-x-btn">&times;</a>  
-                        <iframe 
-                            src="https://drive.google.com/file/d/1w0kMmSkfdyd5Gz50PliJRQ2RwhFOaC0k/preview#toolbar=0&navpanes=0&scrollbar=0" 
-                            class="clean-pdf-iframe"
-                            scrolling="no">
-                        </iframe>
-                    </div>
-                </div>
             </div>
         </div>
         <hr class="major" />
