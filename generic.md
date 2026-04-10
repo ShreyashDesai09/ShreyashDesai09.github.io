@@ -52,36 +52,41 @@ nav-menu: true
         </div>
     </div>
     <section id="two" class="spotlights">
-	    <section>
-            <a href="" class="image">
-                <img src="{% link assets/images/PG-DAC.png %}" alt="" data-position="center center" style="margin-left: 30px; margin-top: 30px; margin-bottom : 30px;"/>
-            </a>
-            <div class="content">
-                    <div class="inner">
-                        <header class="major">
-                            <h4>Post Graduaction Diploma in Advanced Computing</h4>
-                        </header>
-                        <p><b>Sunbeam Infotech Private Limited</b><br/>2026</p>	
-                    </div>
-                </div>
-            <hr class="major" />
-    	</section>
-        <section>
-            <a href="javascript:void(0);" class="image">
-                <img src="{% link assets/images/KIT.png %}" alt="KIT College" data-position="center center" style="margin-right: 50px; margin-top: 30px; margin-bottom: 30px;"/>
-            </a>
-            <div class="content">
-                <div class="inner">
-                    <header class="major">
-                        <h4>Bachelors of Technology in Electronics and Telecommunication</h4>
-                    </header>
-                    <p><b>KIT's College of Engineering</b><br/>Graduated 2024</p>     
-                    <ul class="actions">
-                        <li><a href="#view-degree" class="button small">View Graduation Certificate</a></li>
-                    </ul>
-                </div>
+    <section>
+        <a href="javascript:void(0);" class="image">
+            <img src="{% link assets/images/PG-DAC.png %}" alt="Sunbeam Infotech" data-position="center center" style="margin-left: 30px; margin-top: 30px; margin-bottom : 30px;"/>
+        </a>
+        <div class="content">
+            <div class="inner">
+                <header class="major">
+                    <h4>Post Graduation Diploma in Advanced Computing</h4>
+                </header>
+                <p><b>Sunbeam Infotech Private Limited</b><br/>2026</p> 
+                <ul class="actions">
+                    <li><a href="https://drive.google.com/file/d/1bjqTvad7bgp7q-NoUvBnX90A0rAyIS5Q/view?usp=drive_link" class="button small" target="_blank">Performance Sheet</a></li>                    
+                    <li><a href="https://drive.google.com/file/d/1zLa2BT_UPS68EZy099tmq24y4Jb4S37U/view?usp=drive_link" class="button small" target="_blank">Post Graduation Certificate</a></li>
+                </ul>
             </div>
+        </div>
+        <hr class="major" />
         </section>
+    </section>
+    <section>
+        <a href="javascript:void(0);" class="image">
+            <img src="{% link assets/images/KIT.png %}" alt="KIT College" data-position="center center" style="margin-right: 50px; margin-top: 30px; margin-bottom: 30px;"/>
+        </a>
+        <div class="content">
+            <div class="inner">
+                <header class="major">
+                    <h4>Bachelors of Technology in Electronics and Telecommunication</h4>
+                </header>
+                <p><b>KIT's College of Engineering</b><br/>Graduated 2024</p>     
+                <ul class="actions">
+                    <li><a href="#view-degree" class="button small">View Graduation Certificate</a></li>
+                </ul>
+            </div>
+        </div>
+    </section>
         <div id="view-degree" class="resume-pop-overlay">
             <a href="#" class="resume-exit-area"></a>
             <div class="resume-clipper-box">
