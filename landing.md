@@ -28,9 +28,8 @@ nav-menu: true
                         <li>Containerized services using Docker Compose for scalable AWS EC2 deployment.</li>
                     </ul>     
                     <ul class="actions">
-                        <li><a href="https://github.com/ShreyashDesai09/Revenue-And-Subscription-Management-" class="button small">GitHub</a></li>
-                        <li><a href="#view-explanation" class="button small">Project Explanation</a></li>
-                        <!-- <li><a href="#project-demo-video" class="button small">Project Demo</a></li> -->
+                        <li><a href="https://github.com/ShreyashDesai09/Revenue-And-Subscription-Management-" class="button small" target="_blank">GitHub</a></li>
+                        <li><a href="https://drive.google.com/file/d/1FOLB09axd2wJzV1GXKnlRWesasFidDy1/view?usp=drive_link" class="button small" target="_blank">Project Explanation</a></li>
                     </ul>
                 </div>
             </div>
@@ -61,21 +60,4 @@ nav-menu: true
             </div>
         </section>
     </section>
-</div>
-<div id="view-explanation" class="resume-pop-overlay">
-    <a href="#" class="resume-exit-area"></a>
-    <div class="resume-clipper-box">
-        <a href="#" class="resume-x-btn">&times;</a>
-        <iframe src="https://drive.google.com/file/d/1FOLB09axd2wJzV1GXKnlRWesasFidDy1/preview" class="clean-pdf-iframe" scrolling="no"></iframe>
-    </div>
-</div>
-<div id="project-demo-video" class="resume-pop-overlay">
-    <a href="#" class="resume-exit-area"></a>
-    <div class="video-wrapper">
-        <a href="#" class="resume-x-btn" style="color: white; top: 10px; right: 20px;">&times;</a>
-        <video width="100%" height="auto" controls class="cut-to-cut-video">
-            <source src="assets/videos/bizvenue-demo.mp4" type="video/mp4">
-            Your browser does not support the video tag.
-        </video>
-    </div>
 </div>
