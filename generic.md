@@ -81,23 +81,11 @@ nav-menu: true
                     </header>
                     <p><b>KIT's College of Engineering</b><br/>Graduated 2024</p>     
                     <ul class="actions">
-                        <li><a href="#view-degree" class="button small">View Graduation Certificate</a></li>
+                        <li><a href="https://drive.google.com/file/d/1_XqtMJIG5-2XWOXfWjGmCIlld-AkMDj7/view?usp=drive_link" class="button small" target="_blank">View Graduation Certificate</a></li>
                     </ul>
                 </div>
             </div>
         </section>
-        <div id="view-degree" class="resume-pop-overlay">
-            <a href="#" class="resume-exit-area"></a>
-            <div class="resume-clipper-box">
-                <a href="#" class="resume-x-btn">&times;</a>
-                <iframe 
-                    src="https://drive.google.com/file/d/1_XqtMJIG5-2XWOXfWjGmCIlld-AkMDj7/preview#toolbar=0&navpanes=0&scrollbar=0" 
-                    class="clean-pdf-iframe"
-                    scrolling="no"
-                    style="border:none;">
-                </iframe>
-            </div>
-        </div>
     </section>
     <hr class="major" />
 </section>
