@@ -81,7 +81,7 @@ nav-menu: true
                     </header>
                     <p><b>KIT's College of Engineering</b><br/>Graduated 2024</p>     
                     <ul class="actions">
-                        <li><a href="https://drive.google.com/file/d/1_XqtMJIG5-2XWOXfWjGmCIlld-AkMDj7/view?usp=drive_link" class="button small" target="_blank">View Graduation Certificate</a></li>
+                        <li><a href="https://drive.google.com/file/d/1GpXHwJH5ScR-_TG2_fjv9Ra_lHCfdBe9/view?usp=drive_link" class="button small" target="_blank">View Graduation Certificate</a></li>
                     </ul>
                 </div>
             </div>
