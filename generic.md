@@ -50,7 +50,7 @@ nav-menu: true
                         <header class="major">
                             <h4>Post Graduaction Diploma in Advanced Computing</h4>
                         </header>
-                        <p><b>Sunbeam Institute ofInformation Technology</b><br/>2026</p>	
+                        <p><b>Sunbeam Institute of Information Technology</b><br/>2026</p>	
                         <ul class="actions">
                     <li><a href="https://drive.google.com/file/d/1bjqTvad7bgp7q-NoUvBnX90A0rAyIS5Q/view?usp=drive_link" class="button small" target="_blank">Post Graduation Performance Sheet</a></li>
                     <li><a href="https://drive.google.com/file/d/1zLa2BT_UPS68EZy099tmq24y4Jb4S37U/view?usp=drive_link" class="button small" target="_blank">Post Graduation Certificate</a></li>
