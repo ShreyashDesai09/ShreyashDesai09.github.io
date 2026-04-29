@@ -27,7 +27,7 @@ nav-menu: true
                 <header class="major">
                     <h3>AppZen</h3>
                 </header>
-                <p><b>Customer Value Management Intern</b><br/>Dec 2024 - June 2025</p>
+                <p><b>Data Analyst</b><br/>Dec 2024 - June 2025</p>
                 <ul style="margin-bottom: 20px;">
                     <li>Automated invoice validation workflows using Python and xlwings, reducing manual effort by 30%.</li>
                     <li>Processed 500+ client invoices monthly with 99% accuracy via AI extraction systems.</li> 
