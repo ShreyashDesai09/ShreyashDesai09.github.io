@@ -56,7 +56,7 @@ nav-menu: true
                         <li>Developed a responsive React UI featuring a persistent Dark/Light theme via Context API.</li>
                     </ul>
                     <ul class="actions">
-                        <li><a href="https://github.com/ShreyashDesai09" class="button small" target="_blank">GitHub</a></li>
+                        <li><a href="https://github.com/ShreyashDesai09/VARStreet-Assessment" class="button small" target="_blank">GitHub</a></li>
                     </ul>
                 </div>
             </div>
@@ -83,7 +83,7 @@ nav-menu: true
                         <li>Generated automated Approve/Reject verdicts returning a credit score and detailed reason feedback on a React + MySQL frontend.</li>
                     </ul>
                     <ul class="actions">
-                        <li><a href="https://github.com/ShreyashDesai09" class="button small" target="_blank">GitHub</a></li>
+                        <li><a href="https://github.com/ShreyashDesai09/Vito-Project" class="button small" target="_blank">GitHub</a></li>
                     </ul>
                 </div>
             </div>
@@ -110,7 +110,7 @@ nav-menu: true
                         <li>Designed responsive product detail pages with secure MongoDB persistence and smooth client-side routing via React Router.</li>
                     </ul>
                     <ul class="actions">
-                        <li><a href="https://github.com/ShreyashDesai09" class="button small" target="_blank">GitHub</a></li>
+                        <li><a href="https://github.com/ShreyashDesai09/scent-aura-mern" class="button small" target="_blank">GitHub</a></li>
                     </ul>
                 </div>
             </div>
