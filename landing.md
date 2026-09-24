@@ -28,7 +28,7 @@ nav-menu: true
                         <li>Containerized services using Docker Compose for scalable AWS EC2 deployment.</li>
                     </ul>     
                     <ul class="actions">
-                        <li><a href="https://github.com/ShreyashDesai09/Revenue-And-Subscription-Management-" class="button small" target="_blank">GitHub</a></li>
+                        <li><a href="https://github.com/ShreyashDesai09/bizvenue-subscription-management" class="button small" target="_blank">GitHub</a></li>
                         <li><a href="https://drive.google.com/file/d/1J4hll-LINaeLq53FejRtD1POuPkG8Hqy/view?usp=sharing" class="button small" target="_blank">Project Explanation</a></li>
                     </ul>
                 </div>
@@ -83,7 +83,7 @@ nav-menu: true
                         <li>Generated automated Approve/Reject verdicts returning a credit score and detailed reason feedback on a React + MySQL frontend.</li>
                     </ul>
                     <ul class="actions">
-                        <li><a href="https://github.com/ShreyashDesai09/Vito-Project" class="button small" target="_blank">GitHub</a></li>
+                        <li><a href="https://github.com/ShreyashDesai09/vitto-loan-decision-engine" class="button small" target="_blank">GitHub</a></li>
                     </ul>
                 </div>
             </div>
