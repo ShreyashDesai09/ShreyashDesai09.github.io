@@ -1,95 +1,127 @@
 ---
-layout: page
-title: WORK EXPERIENCE
-image: assets/images/Work-Experience.jpg
+layout: post
+title: ABOUT SHREYASH
+description: 
+image: assets/images/Shreyash-Ghibli.png
 nav-menu: true
 ---
-
-<!-- Main -->
-<div id="main" class="alt">
-
-<!-- One -->
-<section id="one">
-    <div class="inner">
-        <header class="major">
-            <h1>Work Experience</h1>
-        </header>
-    </div>
-</section>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 
 <section id="two" class="spotlights">
-    <!-- AppZen -->
     <section>
-        <a href="javascript:void(0);" class="image">
-            <img src="{% link assets/images/AppZen.png %}"
-                 alt="AppZen Logo"
-                 data-position="center center"
-                 style="margin-left: 30px; margin-top: 50px; width: 80%;"/>
+        <a href="" class="image">
+            <img src="{% link assets/images/Shreyash_About.jpg %}" alt="" data-position="center center" style="margin-left: 30px; margin-top: 120px;"/>
         </a>
-
         <div class="content">
+            <header class="major">
+                    <h3>Summary</h3>
+            </header>
             <div class="inner">
-                <header class="major">
-                    <h3>AppZen</h3>
-                </header>
-
-                <p>
-                    <b>Data Analyst Intern</b><br/>
-                    Dec 2024 – Jun 2025
-                </p>
-
-                <ul style="margin-bottom: 20px;">
-                    <li>Audited AI-driven invoice data extraction across 8+ client accounts, reviewing 3,000+ invoices monthly to verify data quality against client-specific accuracy requirements.</li>
-
-                    <li>Identified 10+ recurring data extraction failure patterns and escalated systemic issues to the Data Science team through JIRA, incorporating client feedback to refine required data fields.</li>
-
-                    <li>Automated recurring data-validation reports using Google Apps Script (JavaScript), reducing weekly reporting time from 8 hours to 2 hours or less—a 75%+ reduction.</li>
-
-                    <li>Completed a two-month rotation with the DART and Data Analysis teams and supported onboarding a new intern through structured knowledge transfer and hands-on training.</li>
-                </ul>
-
+                <p>I am a Software Engineer driven by the challenge of building systems that are both scalable and secure. My journey in technology began with hardware logic and has evolved into engineering enterprise-level SaaS platforms.<br>
+                <b><u>Software Engineering Focus:</u></b> Currently specializing in the Java ecosystem, I focus on building Microservices and secure web applications using Spring Boot (Java 17/21) , ASP.NET , Node.js.<br>
+                <b><u>Real-World Automation:</u></b> During my time at AppZen, I specialized in AI Operations, where I automated financial workflows using Python and fine-tuned AI models to achieve 99% data accuracy.<br>
+                <b><u>Systems Thinking:</u></b> My background in Electronics and Telecommunication allows me to understand systems from the ground up, whether I'm writing Arduino code for hardware prototypes or managing containerized deployments on AWS.<br>
+                <b><u>Continuous Learning:</u></b> Beyond my formal education, I actively document my technical growth through my "90 Days of DevOps" blogs and solve complex algorithmic challenges to stay sharp.</p>
                 <ul class="actions">
-                    <li>
-                        <a href="https://drive.google.com/file/d/1EXJRgkK4qxZ4oTQdyApiqSamU9xJBfm3/view?usp=drive_link"
-                           class="button small"
-                           target="_blank"
-                           rel="noopener noreferrer">
-                            Internship Completion Certificate
-                        </a>
-                    </li>
+                    <li><a href="https://drive.google.com/file/d/1bPzaApWJ-XjR7oGmkiqgR2HxAy4OS_87/view?usp=sharing" class="button" target="_blank">View My Full Resume</a></li>
                 </ul>
             </div>
         </div>
+        <hr class="major" />
     </section>
-
-    <!-- Softron -->
-    <section>
-        <a href="javascript:void(0);" class="image">
-            <img src="{% link assets/images/Softron.png %}"
-                 alt="Softron Logo"
-                 data-position="center center"
-                 style="margin-left: 30px; margin-top: 50px; width: 80%;"/>
-        </a>
-
-        <div class="content">
-            <div class="inner">
-                <header class="major">
-                    <h3>Softron</h3>
-                </header>
-
-                <p>
-                    <b>Full Stack Development Trainee</b><br/>
-                    Feb 2024 – Apr 2024
-                </p>
-
-                <ul style="margin-bottom: 20px;">
-                    <li>Built a PHP/MySQL competition registration system as a capstone project, enabling participant submissions and registration status tracking.</li>
-
-                    <li>Developed and tested the application locally using XAMPP as part of a hands-on development training program.</li>
-                </ul>
-            </div>
-        </div>
-    </section>
+    <hr class="major" />
 </section>
-
-</div>
+<section>
+    <div class="content">
+        <div class="inner">
+            <header class="major">
+                <h3>Education</h3>
+            </header>          
+        </div>
+    </div>
+    <section id="two" class="spotlights">
+	    <section>
+            <a href="" class="image">
+                <img src="{% link assets/images/PG-DAC.png %}" alt="" data-position="center center" style="margin-left: 30px; margin-top: 30px; margin-bottom : 30px;"/>
+            </a>
+            <div class="content">
+                    <div class="inner">
+                        <header class="major">
+                            <h4>Post Graduaction Diploma in Advanced Computing</h4>
+                        </header>
+                        <p><b>Sunbeam Institute of Information Technology</b><br/>Graduated 2026</p>	
+                        <ul class="actions">
+                    <li><a href="https://drive.google.com/file/d/1bjqTvad7bgp7q-NoUvBnX90A0rAyIS5Q/view?usp=drive_link" class="button small" target="_blank">Post Graduation Performance Sheet</a></li>
+                    <li><a href="https://drive.google.com/file/d/1zLa2BT_UPS68EZy099tmq24y4Jb4S37U/view?usp=drive_link" class="button small" target="_blank">Post Graduation Certificate</a></li>
+                </ul>
+                    </div>
+                </div>
+            <hr class="major" />
+    	</section>
+        <section>
+            <a href="javascript:void(0);" class="image">
+                <img src="{% link assets/images/KIT.png %}" alt="KIT College" data-position="center center" style="margin-right: 50px; margin-top: 30px; margin-bottom: 30px;"/>
+            </a>
+            <div class="content">
+                <div class="inner">
+                    <header class="major">
+                        <h4>Bachelors of Technology in Electronics and Telecommunication</h4>
+                    </header>
+                    <p><b>KIT's College of Engineering</b><br/>Graduated 2024</p>     
+                    <ul class="actions">
+                        <li><a href="https://drive.google.com/file/d/1GpXHwJH5ScR-_TG2_fjv9Ra_lHCfdBe9/view?usp=drive_link" class="button small" target="_blank">View Graduation Certificate</a></li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+    </section>
+    <hr class="major" />
+</section>
+<section>
+    <div class="content">
+        <div class="inner">
+            <header class="major">
+                <h3>Skills</h3>
+            </header>
+            <div class="row">
+                <div class="4u 12u$(medium)">
+                    <h4>Programming Languages</h4>
+                    <p><i class="fas fa-code"></i> C++<br><i class="fas fa-code"></i> C#<br><i class="fab fa-java"></i> Java (Core, Java 8)<br><i class="fab fa-js"></i> JavaScript</p>
+                </div>
+                <div class="4u 12u$(medium)">
+                    <h4>Scripting</h4>
+                    <p><i class="fas fa-terminal"></i> Bash</p>
+                </div>
+                <div class="4u$ 12u$(medium)">
+                    <h4>Cloud Platform</h4>
+                    <p><i class="fab fa-aws"></i> Amazon Web Services (AWS)</p>
+                </div>
+                <div class="4u$ 12u$(medium)">
+                    <h4>Operating System</h4>
+                    <p><i class="fab fa-linux"></i> Linux</p>
+                </div>
+                <div class="4u$ 12u$(medium)">
+                    <h4>DevOps & Containerization</h4>
+                    <p><i class="fab fa-docker"></i> Docker<br><i class="fas fa-dharmachakra"></i> Kubernetes</p>
+                </div>
+                <div class="4u$ 12u$(medium)">
+                    <h4>CI/CD & Version Control</h4>
+                    <p><i class="fab fa-git-alt"></i> Git<br><i class="fab fa-github"></i> GitHub<br><i class="fas fa-cogs"></i> Jenkins</p>
+                </div>
+                <div class="4u$ 12u$(medium)">
+                    <h4>Backend</h4>
+                    <p><i class="fas fa-leaf"></i> Spring Boot (Java 17/21)<br><i class="fab fa-node-js"></i> Node.js (Express)<br><i class="devicon-dotnetcore-plain"></i> ASP.NET</p>
+                </div>
+                <div class="4u$ 12u$(medium)">
+                    <h4>Frontend</h4>
+                    <p><i class="fab fa-react"></i> React.js<br><i class="fab fa-html5"></i> HTML5<br><i class="fab fa-css3-alt"></i> CSS3</p>
+                </div>
+                <div class="4u$ 12u$(medium)">
+                    <h4>Databases</h4>
+                    <p><i class="devicon-mysql-plain"></i> MySQL<br><i class="devicon-microsoftsqlserver-plain"></i> Microsoft SQL Server (SSMS)</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
