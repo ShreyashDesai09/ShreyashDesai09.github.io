@@ -1,10 +1,3 @@
-```html
----
-layout: page
-title: WORK EXPERIENCE
-image: assets/images/Work-Experience.jpg
-nav-menu: true
----
 ---
 layout: page
 title: WORK EXPERIENCE
