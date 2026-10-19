@@ -79,12 +79,6 @@ nav-menu: true
     </section>
     <!-- Softron -->
     <section>
-        <a href="javascript:void(0);" class="image">
-            <img src="{% link assets/images/Softron.png %}"
-                 alt="Softron Logo"
-                 data-position="center center"
-                 style="margin-left: 30px; margin-top: 50px; width: 80%;"/>
-        </a>
         <div class="content">
             <div class="inner">
                 <header class="major">
