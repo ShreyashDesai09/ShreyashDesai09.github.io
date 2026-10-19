@@ -1,6 +1,6 @@
 ---
 layout: allposts
-title: Achievements
+title: Technical Skills
 landing-title: ' '
 nav-menu: true
 description: null
