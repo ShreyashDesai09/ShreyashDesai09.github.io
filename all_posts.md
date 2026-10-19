@@ -1,15 +1,10 @@
 ---
-layout: allposts
+layout: page
 title: Technical Skills
-landing-title: ' '
-nav-menu: true
-description: null
+description: Technical skills in Java, Spring Boot, AWS, Docker, Kubernetes, and CI/CD.
 image: assets/images/Motivation.jpeg
-author: null
-show_tile: true
+nav-menu: true
 ---
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 <div id="main">
     <section id="one">
         <div class="inner">
