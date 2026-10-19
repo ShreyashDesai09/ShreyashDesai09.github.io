@@ -2,7 +2,7 @@
 layout: page
 title: Technical Skills
 description: Technical skills in Java, Spring Boot, databases, AWS, Docker, Kubernetes, and CI/CD.
-image: assets/images/Motivation.jpeg
+image: assets/images/TechSkills.jpeg
 nav-menu: true
 ---
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
