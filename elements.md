@@ -7,7 +7,6 @@ nav-menu: true
 
 <!-- Main -->
 <div id="main" class="alt">
-
     <!-- Page Heading -->
     <section id="one">
         <div class="inner">
@@ -16,10 +15,8 @@ nav-menu: true
             </header>
         </div>
     </section>
-
     <!-- Work Experience -->
     <section id="two" class="spotlights">
-
         <!-- AppZen -->
         <section>
             <a href="javascript:void(0);" class="image">
@@ -28,18 +25,15 @@ nav-menu: true
                      data-position="center center"
                      style="margin-left: 30px; margin-top: 50px; width: 80%;"/>
             </a>
-
             <div class="content">
                 <div class="inner">
                     <header class="major">
                         <h3>AppZen</h3>
                     </header>
-
                     <p>
                         <b>Data Analyst Intern</b><br/>
                         Dec 2024 - Jun 2025
                     </p>
-
                     <ul style="margin-bottom: 20px;">
                         <li>
                             Audited AI-driven invoice data extraction across 8+ client
@@ -70,7 +64,6 @@ nav-menu: true
                             document extraction and data quality validation.
                         </li>
                     </ul>
-
                     <ul class="actions">
                         <li>
                             <a href="https://drive.google.com/file/d/1EXJRgkK4qxZ4oTQdyApiqSamU9xJBfm3/view?usp=drive_link"
@@ -84,7 +77,6 @@ nav-menu: true
                 </div>
             </div>
         </section>
-
         <!-- Softron -->
         <section>
             <div class="content">
@@ -92,12 +84,10 @@ nav-menu: true
                     <header class="major">
                         <h3>Softron</h3>
                     </header>
-
                     <p>
                         <b>Full Stack Development Trainee</b><br/>
                         Feb 2024 - Apr 2024
                     </p>
-
                     <ul style="margin-bottom: 20px;">
                         <li>
                             Built a competition registration system using PHP
@@ -116,6 +106,5 @@ nav-menu: true
                 </div>
             </div>
         </section>
-
     </section>
 </div>
