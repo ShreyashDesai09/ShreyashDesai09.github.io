@@ -24,7 +24,7 @@ nav-menu: true
                 <b><u>Professional Experience:</u></b> During my internship at AppZen, I worked on AI-driven invoice data extraction validation, investigated recurring extraction issues, collaborated with the Data Science team, and automated recurring reporting using Google Apps Script. This reduced weekly reporting time from 8 hours to 2 hours or less.<br>
                 <b><u>Continuous Learning:</u></b> I actively build backend-focused projects, explore modern development tools, practice Data Structures and Algorithms, and document my technical learning through technology blogs.</p>
                 <ul class="actions">
-                    <li><a href="https://drive.google.com/file/d/1bPzaApWJ-XjR7oGmkiqgR2HxAy4OS_87/view?usp=sharing" class="button" target="_blank" rel="noopener noreferrer">View My Full Resume</a></li>
+                    <li><a href="https://drive.google.com/file/d/1bPzaApWJ-XjR7oGmkiqgR2HxAy4OS_87/view?usp=sharing" class="button" target="_blank" rel="noopener noreferrer">View My Resume</a></li>
                 </ul>
             </div>
         </div>
